@@ -1,0 +1,27 @@
+{
+  "name": "Vibey Luffy Zoro Onepiece Theme",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 3,
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [170, 156, 136],
+      "toolbar": [45, 24, 6],
+      "tab_text": [244, 242, 222],
+      "tab_background_text": [45, 24, 6],
+      "bookmark_text": [244, 242, 222],
+      "ntp_background": [255, 255, 255],
+      "ntp_text": [50, 50, 50],
+      "ntp_link": [6, 55, 116],
+      "button_background": [0, 0, 0, 0]
+    },
+    "tints": { "buttons": [0.15, 0.5, 0.91] },
+    "properties": {
+      "ntp_background_alignment": "left top",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

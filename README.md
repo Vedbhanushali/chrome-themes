@@ -1,2 +1,10 @@
 # chrome-themes
-chrome themes collection
+
+## collections
+
+- Anime
+  - Onepiece
+
+## LICENSE
+
+[MIT](./LICENSE)
