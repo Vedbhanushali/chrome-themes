@@ -14,11 +14,16 @@
       "tab_background_text": [45, 24, 6],
       "bookmark_text": [244, 242, 222],
       "ntp_background": [255, 255, 255],
-      "ntp_text": [50, 50, 50],
+      "ntp_text": [45, 24, 6],
       "ntp_link": [6, 55, 116],
       "button_background": [0, 0, 0, 0]
     },
-    "tints": { "buttons": [0.15, 0.5, 0.91] },
+    "tints": {
+      "buttons": [0.15, 0.5, 0.91],
+      "background_tab": [0.15, 0.5, 0.91],
+      "frame_inactive": [0.15, 0.5, 0.91],
+      "frame": [0.15, 0.5, 0.91]
+    },
     "properties": {
       "ntp_background_alignment": "left top",
       "ntp_background_repeat": "no-repeat"
